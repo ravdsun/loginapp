@@ -25,4 +25,4 @@
 }  
 ```
 
-4. Ruj the job
+4. Run the job
