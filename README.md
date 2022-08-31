@@ -25,4 +25,4 @@
 }  
 ```
 
-4. Run the job
+4. Build the job
