@@ -25,4 +25,4 @@
 }  
 ```
 
-4. Buld the job
+4. Run the job
