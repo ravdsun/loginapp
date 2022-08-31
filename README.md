@@ -25,4 +25,4 @@
 }  
 ```
 
-4. Build the job
+4. Ruj the job
