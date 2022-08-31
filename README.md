@@ -3,7 +3,7 @@
 1. create a jenkins job
 2. configure maven
 3. use jenkins file mentioned below 
-sh''' pipeline {  
+sh``` pipeline {  
     agent any  
     tools {  
         maven 'maven'  
@@ -23,6 +23,6 @@ sh''' pipeline {
         }  
     }  
 }  
-'''sh
+```sh
 
 4. Buld the job
